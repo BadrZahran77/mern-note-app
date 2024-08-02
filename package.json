@@ -1,0 +1,20 @@
+{
+  "name": "mern-note-app",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "mern-note-app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
